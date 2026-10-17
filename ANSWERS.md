@@ -9,7 +9,15 @@ Fingerprint: 83b3806f
 
 ## AI-use declaration
 
-(About half a page: which assistants or tools you used and for what. If you used none, say so.)
+I used ChatGPT and Google Colab to support my work on this assignment.
+
+I created my GitHub fork, ran the data generator with my username and session code, and worked with my generated files. I ran the calculation code in Colab, reviewed the outputs and entered the results into ANSWERS.md. I compared the candidates using their costs, recall, confidence intervals and results by language.
+
+I submitted explanations and revised drafts for feedback, including my retrieval decision, next measurement, document pipeline memo and Part 3 explanations. I considered the trade-offs between accuracy, budget and personal-data risks, and revised my answers after discussing errors and uncertainty. I also edited the file and saved my changes through GitHub commits.
+
+ChatGPT explained the methods, supplied Python calculation code, calculated results and helped troubleshoot Colab errors. It initially provided a complete answer draft and later helped check and revise reasoning, English and word limits. Some final wording was supplied or rewritten by ChatGPT.
+
+The final submission therefore combines my work in running, reviewing, analysing and revising with substantial AI assistance in calculations, code and drafting. No external legal research was used; the personal-data discussion relied on the assignment.
 
 ## Part 1: Retrieval and cost decision
 
