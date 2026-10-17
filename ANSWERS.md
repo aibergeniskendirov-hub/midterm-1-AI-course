@@ -47,6 +47,7 @@ Recall by language for A, k=3: EN 18/20 = 90%, RU 16/20 = 80%, KK 17/20 = 85%. R
 (Decision, using your intervals and the budget. Give the recall of your choice for EN, RU and KK separately.)
 
 ### 1e. Next measurement (at most 60 words)
+Next, I would compare A, k=3 and B, k=5 on 600 new questions, 200 per language. A teacher would check final answers without knowing which system produced them. I would compare accuracy and uncertainty for each language. I would choose cheaper B if the results showed it was no more than five percentage points worse in any language.
 
 ## Part 2: A document pipeline you can defend
 
