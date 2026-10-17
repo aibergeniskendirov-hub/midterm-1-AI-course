@@ -40,8 +40,10 @@ Fingerprint: 83b3806f
 
 ### 1d. Decision (at most 150 words)
 
-Chosen candidate:
+Chosen candidate: А, k=3
+I chose A, k=3. Its annual cost is 10607.57, which fits within the 12200 budget. Its overall recall is 85% with an interval of 73.89–91.90%. This interval does not overlap with the intervals of either B candidate, so by the task's rule A, k=3 is shown to be better than both, even though B is cheaper. A, k=5 is not an option because it costs 13809.61, which is over budget, and its interval overlaps with A, k=3, so it has not been shown to be better anyway.
 
+Recall by language for A, k=3: EN 18/20 = 90%, RU 16/20 = 80%, KK 17/20 = 85%. Russian was the weakest, but with only 20 questions per language this difference is not conclusive.
 (Decision, using your intervals and the budget. Give the recall of your choice for EN, RU and KK separately.)
 
 ### 1e. Next measurement (at most 60 words)
