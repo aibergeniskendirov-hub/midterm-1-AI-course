@@ -1,8 +1,8 @@
 # Midterm 1: answers
 
-GitHub username:
-Session code:
-Fingerprint:
+GitHub username: aibergeniskendirov-hub
+Session code: zebra-28
+Fingerprint: 83b3806f
 
 > Fill in the three lines above from `my_data/DATA.md`. Do not rename headings or table columns: a script reads the numbers.
 > Write only in the empty cells and lines. Percentages as 0.78 or 78 %, money as plain numbers.
@@ -17,8 +17,8 @@ Fingerprint:
 
 | config | recall@1 | recall@3 | recall@5 | MRR@10 |
 |---|---|---|---|---|
-| A | | | | |
-| B | | | | |
+| A |0.683333|0.850000|0.900000|0.769907 |
+| B |0.266667|0.466667 |0.616667 |0.394392|
 
 ### 1b. Recall and 95 % Wilson interval of each candidate (recall at its own k)
 
