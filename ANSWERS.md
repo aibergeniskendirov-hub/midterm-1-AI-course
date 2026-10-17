@@ -61,6 +61,13 @@ Next, I would compare A, k=3 and B, k=5 on 600 new questions, 200 per language. 
 Personal-data pages per year sent abroad under H: 251850
 
 ### 2b. Memo (at most 300 words)
+Recommendation. I recommend pipeline L. It costs 5400.00 per year compared with 7550.03 for H. H has higher overall accuracy (86.67% vs 81.67%), but the intervals overlap (H: 80.93–90.87%, L: 75.37–86.64%), so by the task's rule H's advantage is not established. H also sends 251850 personal-data pages per year abroad, a privacy risk that an unproven accuracy gain does not justify. L processes scans in Kazakhstan, but the location of backups and any external transfers still needs to be checked.
+
+Who is worse served. The overall numbers hide weaker groups. For L, the weakest cells are Russian degraded scans and Kazakh degraded scans (tie), both at 76.67% with an interval of 59.07–88.21%. For H, the weakest cell is Kazakh clean documents, also 76.67% (59.07–88.21%).
+
+Personal data. Under H, pages go to a provider abroad; we need to confirm who stores them, where, and for how long. Under L, the retention period is not yet known; we need to check staff access, backup locations and deletion deadlines.
+
+Safeguards and remaining risk. I would add human review for degraded scans and for Russian and Kazakh documents, and track accuracy per language and scan quality each month. I would also audit the list of authorised users and test that old scans are deleted together with their backups. IINs are protected under Kazakhstan's Law No. 94-V on personal data, and a vendor's promise does not replace checking compliance. The remaining risk is that a reviewer may miss an error during checking, and our small test set may not reflect real scans.
 
 ## Part 3: Explain your own numbers
 
