@@ -56,7 +56,7 @@ Next, I would compare A, k=3 and B, k=5 on 600 new questions, 200 per language. 
 | pipeline | overall accuracy | weakest cell (language, condition) | accuracy there | lower | upper | annual cost |
 |---|---|---|---|---|---|---|
 | H |86.67%|KK, clean|76.67%|59.07%|88.21%|7550.03|
-| L |81.67%|RU, degraded; KK, degraded (tie)|76.67%|59.07%|88.21|5400.00|
+| L |81.67%|RU, degraded; KK, degraded (tie)|76.67%|59.07%|88.21%|5400.00|
 
 Personal-data pages per year sent abroad under H: 251850
 
