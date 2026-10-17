@@ -73,25 +73,25 @@ Safeguards and remaining risk. I would add human review for degraded scans and f
 
 ### Q1
 
-Number:
-Why (at most 40 words):
+Number:2.09
+Why (at most 40 words):KK and EN have different shares of input and output tokens, and output tokens cost more than input tokens. So the cost ratio between KK and EN differs from their token-count ratio.
 
 ### Q2
 
-Number:
-Why (at most 40 words):
+Number:444
+Why (at most 40 words):The answer sentence starts around token 444 and ends before token 464, inside e5-small's 512-token limit. Retrieval is therefore possible but not guaranteed; text beyond 512 tokens is truncated silently, without an error.
 
 ### Q3
 
-Number:
-Why (at most 40 words):
+Number:59.9%
+Why (at most 40 words):Temperature reshapes the probability distribution; top-p then drops the low-probability tail and renormalizes the remaining probabilities. Here, "Easter" is removed.
 
 ### Q4
 
-Number:
-Why (at most 40 words):
+Number:13
+Why (at most 40 words):Without a penalty, X wins, because unpenalized scoring rewards guessing. With a penalty for wrong answers, X scores 38 and Y scores 51, a difference of 13.
 
 ### Q5
 
-Number:
-Why (at most 40 words):
+Number:13.95
+Why (at most 40 words):The model uses 279 tokens per parameter versus Chinchilla's 20. By this criterion it is trained far beyond the Chinchilla-optimal point, which is not necessarily overfitting. GPT-3, by contrast, was undertrained for its size.
